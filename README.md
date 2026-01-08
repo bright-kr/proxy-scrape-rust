@@ -16,7 +16,7 @@
 - Nginx (설치 가이드: [nginx](https://nginx.org/en/docs/install.html))
 
 ## Setup
-1. 리포지토리를 클론합니다: `git clone git@github.com:luminati-io/proxy-scrape-rust.git`
+1. 리포지토리를 클론합니다: `git clone git@github.com:bright-kr/proxy-scrape-rust.git`
 2. 프로젝트 디렉터리로 이동합니다: `cd proxy-scrape-rust`
 3. 의존성을 설치합니다: `cargo build`
 
